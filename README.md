@@ -1,3 +1,8 @@
+<p align="center">
+  <img align="center" src="https://avatars.githubusercontent.com/u/190006171?s=200&v=4" width="160px" />
+</p>
+<p align="left">
+
 # Aplicação de demonstração Next.js da Laiss Labs®
 
 Este é um projeto [Next.js](https://nextjs.org) inicializado com [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
